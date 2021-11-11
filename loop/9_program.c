@@ -1,6 +1,7 @@
 /* Author: Nishan Ghimire 
 Roll no : 210316(BE/D)
 Question
+WAP to print fibonacci series
 
 */
 
